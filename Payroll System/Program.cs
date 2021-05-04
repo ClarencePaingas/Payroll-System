@@ -6,6 +6,7 @@ namespace Payroll_System
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hihihi");
             String adminUsername = "admin1234";
             String adminPassword = "password";
 
